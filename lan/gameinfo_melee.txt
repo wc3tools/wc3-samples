@@ -1,0 +1,46 @@
+GameInfo {
+    name: "GAMENAMEHERE",
+    message_id: 0,
+    entries: [
+        GameInfoEntry {
+            key: "players_num",
+            value: "1",
+        },
+        GameInfoEntry {
+            key: "_name",
+            value: "GAMENAMEHERE",
+        },
+        GameInfoEntry {
+            key: "players_max",
+            value: "2",
+        },
+        GameInfoEntry {
+            key: "game_create_time",
+            value: "1592701053",
+        },
+        GameInfoEntry {
+            key: "_type",
+            value: "1",
+        },
+        GameInfoEntry {
+            key: "_subtype",
+            value: "0",
+        },
+        GameInfoEntry {
+            key: "game_secret",
+            value: "4291818944",
+        },
+        GameInfoEntry {
+            key: "game_data",
+            value: "R0FNRU5BTUVIRVJFAAABA0kHAQGhAfFJAVcxi3lNm2Fxcy8pMymtY29vdXljYTt5L3czbQFRnU1BWUVTT0FXTUVJRVNFAYUByeVv11f/5Y+NjWGNOQMtbz8b+wsdwwACAAAACcBCAIA+",
+        },
+        GameInfoEntry {
+            key: "game_id",
+            value: "3",
+        },
+        GameInfoEntry {
+            key: "_flags",
+            value: "0",
+        },
+    ],
+}
